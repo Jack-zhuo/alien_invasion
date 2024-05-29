@@ -15,3 +15,4 @@ while running:
 pygame.quit()
 # pretend to modify
 #pretend to modify too
+# live is very good
